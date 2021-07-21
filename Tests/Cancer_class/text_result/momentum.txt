@@ -1,0 +1,203 @@
+C:\Users\Sapan\Downloads\4p76Assign1\assign1\venv\Scripts\python.exe C:/Users/Sapan/Downloads/4p76Assign1/assign1/main.py
+Enter 1 for Digits classification, Enter 2 for Cancer classification: 2
+Enter number of tests to compare (only works on 3), if don't want to run tests just single run enter 1: 3
+Give name to your Test for files: cancer_momentum
+
+Test no.: 0
+Enter number of neurons for hidden layer: 3
+Enter number of epochs: 8
+Enter 1 for sigmoid or 2 for tanh activation function: 1
+Enter learning rate: 0.5
+Enter Momentum: 0.15
+Running---------
+Fold no.:  0
+Accumulated sum error over epochs:  [80.97455485285855, 38.455472904258905, 15.01162027698563, 10.143407275794551, 8.575864325917275, 7.849296238622715, 7.433883744617162, 7.160871903166746]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Running---------
+Fold no.:  1
+Accumulated sum error over epochs:  [75.25165328125382, 31.618668439448058, 14.068342988409727, 10.386338973861454, 9.076958340580896, 8.436470124644032, 8.061934715520552, 7.815529919571838]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Running---------
+Fold no.:  2
+Accumulated sum error over epochs:  [72.37047759517374, 28.812977778046342, 12.717966671932446, 9.157992127845096, 7.832599403943147, 7.178706120387782, 6.80196479545976, 6.561491055933503]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Running---------
+Fold no.:  3
+Accumulated sum error over epochs:  [73.69933297541613, 24.252115310929852, 10.938703993417564, 8.214601988269425, 7.158607014493312, 6.602313705523263, 6.25388092728742, 6.009248341966572]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Fold test accuracies%:  [100.0, 100.0, 100.0, 100.0]
+Fold validation accuracies%:  [100.0, 100.0, 100.0, 100.0]
+Mean fold validation accuracies%:  100.0
+
+Test no.: 1
+Enter number of neurons for hidden layer: 3
+Enter number of epochs: 8
+Enter 1 for sigmoid or 2 for tanh activation function: 1
+Enter learning rate: 0.5
+Enter Momentum: 0.5
+Running---------
+Fold no.:  0
+Accumulated sum error over epochs:  [83.29601145122218, 49.80375582537235, 17.89419677724818, 11.724022125627114, 10.103484679640117, 9.425726700111468, 9.07095553097434, 8.859372997869253]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Running---------
+Fold no.:  1
+Accumulated sum error over epochs:  [77.26616568239608, 28.13108761964464, 11.111122895811757, 7.788699665828535, 6.5650146108755, 5.939148569334366, 5.556002527758465, 5.291148725314111]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Running---------
+Fold no.:  2
+Accumulated sum error over epochs:  [75.61648306821414, 35.03838659576255, 14.310663758507372, 10.730540928109953, 9.616654763680417, 9.075421382782007, 8.736339315454806, 8.489986646871268]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Running---------
+Fold no.:  3
+Accumulated sum error over epochs:  [78.86379401650046, 32.761895013425814, 14.451747599483001, 11.247793076470115, 10.185726547131411, 9.665888895989736, 9.348268167142358, 9.124307780161491]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Fold test accuracies%:  [100.0, 100.0, 100.0, 100.0]
+Fold validation accuracies%:  [100.0, 100.0, 100.0, 100.0]
+Mean fold validation accuracies%:  100.0
+
+Test no.: 2
+Enter number of neurons for hidden layer: 3
+Enter number of epochs: 8
+Enter 1 for sigmoid or 2 for tanh activation function: 1
+Enter learning rate: 0.5
+Enter Momentum: 0.85
+Running---------
+Fold no.:  0
+Accumulated sum error over epochs:  [83.03496877134717, 53.66671221085658, 18.051366430453676, 10.455913671931722, 8.571736737451669, 7.805080147601388, 7.401445090702632, 7.153980171626269]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Running---------
+Fold no.:  1
+Accumulated sum error over epochs:  [83.6807234316516, 59.91799223821635, 20.52724891932206, 10.902594659151891, 8.798678413600294, 7.9889153090419525, 7.560985976587155, 7.28828890698281]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Running---------
+Fold no.:  2
+Accumulated sum error over epochs:  [68.60003649470478, 21.8132726527921, 12.471786513412033, 10.594669136886852, 9.85895765732044, 9.442893398294428, 9.15010002762886, 8.917526857547546]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Running---------
+Fold no.:  3
+Accumulated sum error over epochs:  [71.46772009445702, 22.12349928523018, 11.108382261031519, 9.274345648607383, 8.666168785385686, 8.38598622142792, 8.22940584210338, 8.128672086872955]
+
+Correct classification validation set:  123
+
+Correct classification test set:  200
+end of fold
+
+Fold test accuracies%:  [100.0, 100.0, 100.0, 100.0]
+Fold validation accuracies%:  [100.0, 100.0, 100.0, 100.0]
+Mean fold validation accuracies%:  100.0
+
+Test results: 
+   test0  test1  test2
+0  100.0  100.0  100.0
+1  100.0  100.0  100.0
+2  100.0  100.0  100.0
+3  100.0  100.0  100.0
+Test stats: 
+       test0  test1  test2
+count    4.0    4.0    4.0
+mean   100.0  100.0  100.0
+std      0.0    0.0    0.0
+min    100.0  100.0  100.0
+25%    100.0  100.0  100.0
+50%    100.0  100.0  100.0
+75%    100.0  100.0  100.0
+max    100.0  100.0  100.0
+
+Validation results: 
+   test0  test1  test2
+0  100.0  100.0  100.0
+1  100.0  100.0  100.0
+2  100.0  100.0  100.0
+3  100.0  100.0  100.0
+Valid stats: 
+       test0  test1  test2
+count    4.0    4.0    4.0
+mean   100.0  100.0  100.0
+std      0.0    0.0    0.0
+min    100.0  100.0  100.0
+25%    100.0  100.0  100.0
+50%    100.0  100.0  100.0
+75%    100.0  100.0  100.0
+max    100.0  100.0  100.0
+C:\Users\Sapan\Downloads\4p76Assign1\assign1\venv\lib\site-packages\scipy\stats\morestats.py:1678: UserWarning: Input data for shapiro has range zero. The results may not be accurate.
+  warnings.warn("Input data for shapiro has range zero. The results "
+
+shapiro test for testing accuracies
+test0 stats=1.0000, p=1.0000
+test1 stats=1.0000, p=1.0000
+test2 stats=1.0000, p=1.0000
+
+shapiro test for validation accuracies
+test0 stats=1.0000, p=1.0000
+test1 stats=1.0000, p=1.0000
+test2 stats=1.0000, p=1.0000
+
+ANOVA test
+                          sum_sq   df             F        PR(>F)
+df_test.iloc[:, 1]  4.000000e+04  1.0  3.713820e+31  9.744049e-48
+df_test.iloc[:, 2]  4.000000e+04  1.0  3.713820e+31  9.744049e-48
+Residual            3.231174e-27  3.0           NaN           NaN
+
+t-tests: 
+Ttest_indResult(statistic=nan, pvalue=nan)
+Ttest_indResult(statistic=nan, pvalue=nan)
+Ttest_indResult(statistic=nan, pvalue=nan)
+
+No statistically better mean
+
+Process finished with exit code 0
